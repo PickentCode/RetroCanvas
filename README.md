@@ -4,7 +4,7 @@
 <img src="logo_git.png" alt="logo"/>
 <br>
 
-<a href="https://www.kentpirma.eu/RetroCanvas">RetroCanvas demos!</a>
+<a href="https://www.kentpirma.eu/RetroCanvas" width="262" height="254">RetroCanvas demos!</a>
 
 <p>Features added:</p>
 <ul>

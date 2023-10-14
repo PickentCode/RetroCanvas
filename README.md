@@ -1,10 +1,10 @@
 <h1>RetroCanvas.js</h1>
 <p>JS canvas based retro game library</p>
 <p>Currently in development. The end goal is to write a JS library for making retro-style video games.</p>
-<img src="logo_git.png" alt="logo"/>
+<img src="logo_git.png" alt="logo" width="262" height="254"/>
 <br>
 
-<a href="https://www.kentpirma.eu/RetroCanvas" width="262" height="254">RetroCanvas demos!</a>
+<a href="https://www.kentpirma.eu/RetroCanvas">RetroCanvas demos!</a>
 
 <p>Features added:</p>
 <ul>

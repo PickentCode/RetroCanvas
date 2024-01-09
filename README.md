@@ -4,7 +4,7 @@
 <img src="logo_git.png" alt="logo" width="262" height="254"/>
 <br>
 
-<a href="https://www.kentpirma.eu/RetroCanvas">RetroCanvas demos!</a>
+<a href="https://www.kentpirma.eu/RetroCanvas">RetroCanvas documentation and examples!</a>
 
 <p>Features added:</p>
 <ul>
@@ -21,6 +21,7 @@
   <li>Gamepad Support</li>
   <li>Perlin and Voronoi Noise</li>
   <li>Cellular Automata</li>
+  <li>Basic Raycaster Camera</li>
 </ul>
 
 <p>TO-DO features:</p>

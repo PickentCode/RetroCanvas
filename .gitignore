@@ -1,9 +1,3 @@
 /assets
-/lib/index.html
-/lib/game.js
-/lib/game2.js
-/lib/game3.js
-/lib/game4.js
-/lib/game5.js
-/lib/game6.js
+/examples
 /lib/physicsOLD.js

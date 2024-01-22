@@ -22,6 +22,7 @@
   <li>Perlin and Voronoi Noise</li>
   <li>Cellular Automata</li>
   <li>Basic Raycaster Camera</li>
+  <li>Simple ANN</li>
 </ul>
 
 <p>TO-DO features:</p>

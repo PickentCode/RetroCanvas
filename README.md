@@ -23,18 +23,20 @@
   <li>Cellular Automata</li>
   <li>Basic Raycaster Camera</li>
   <li>Simple ANN</li>
+  <li>Inverse Kinematic</li>
+  <li>Online Documentation</li>
 </ul>
 
 <p>TO-DO features:</p>
 <ul>
-  <li>Inverse Kinematic</li>
   <li>Throwing Formula for GameMath</li>
   <li>Camera Shake</li>
   <li>Pathfinder Class</li>
   <li>Raycaster Camera</li>
   <li>Isometric Camera</li>
   <li>Particle System</li>
-  <li>WebGL Support (with fallback to JS canvas)</li>
   <li>Editor Application</li>
-  <li>Online Documentation</li>
+  <li>Steering Behaviours</li>
+  <li>MinMax</li>
+  <li>Pseudo 3D Racing Camera</li>
 </ul>
